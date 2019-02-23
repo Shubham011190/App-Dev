@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dinner Decider</string>
+    <string name="FoodDisplay">Select your Food!</string>
+    <string name="button">Button</string>
+    <string name="decide">Decide!</string>
+    <string name="appview">AppView</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="addBtn">ADD</string>
+    <string name="add_food">Add Food...</string>
+</resources>
